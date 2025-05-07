@@ -147,7 +147,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👥 Authors
 
-- **Praharsh Vijay** - *Initial work* - [Your GitHub Profile]
+- **Praharsh Vijay** - *Initial work* - [[https://github.com/dimpupraharsh]]
 
 ## 🙏 Acknowledgments
 
