@@ -160,7 +160,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 For support, please:
 1. Check the [Issues](https://github.com/yourusername/energy-dynamics-analysis/issues) section
 2. Create a new issue if your problem isn't already listed
-3. Contact the maintainers at [your-email@domain.com]
+3. Contact the maintainers at [praharsh789@gmail.com]
 
 ## 🔄 Future Enhancements
 
